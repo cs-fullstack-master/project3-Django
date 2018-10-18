@@ -1,4 +1,4 @@
-# Community Portal (project3-Django)
+# Expense Tracker (project3-Django)
 
 ## Requirements (Total of 20 points)
 
