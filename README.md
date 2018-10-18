@@ -27,15 +27,13 @@ Create an expense app to allow users to log their expenses and put funds toward 
 #### 2pts
 When you're not logged in, provide a landing page suggesting users to create a new account with your site to save them money. When creating a new user allow them to provide their current balance and set an amount for an emergency fund.
 
-#### 4pts
-Signed in users should see their balance, emergency fund status, and history of expenses/deposits on the index page.
+#### 8pts
+Signed in users should see their balance, emergency fund status, and history of expenses/deposits on the index page. Allow the user to deposit or expense a fund with a name, amount, and date to either their balance or emergency fund.
 
-#### 4pts 
-Allow the user to deposit or expense a fund with a name, amount, and date to either their balance or emergency fund.
+<hr>
 
-
-##### Extra Work:
+#### Extra Work:
 Create a user profile page that allows them to change their emergency fund and record a reason for their emergency fund.
 
-##### Extra extra work:
+#### Extra extra work:
 Allow a user to tag/group expenses together and provide a view on their home page to view only those tagged/grouped expenses.
