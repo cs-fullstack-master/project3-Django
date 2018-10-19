@@ -33,7 +33,10 @@ Signed in users should see their balance, emergency fund status, and history of 
 <hr>
 
 #### Extra Work:
-Create a user profile page that allows them to change their emergency fund and record a reason for their emergency fund.
+Create a user profile page that allows them to change their emergency fund. Display total withdrawn and total deposited.
 
 #### Extra extra work:
-Allow a user to tag/group expenses together and provide a view on their home page to view only those tagged/grouped expenses.
+Allow a user to tag/group withdrawals when creating a withdrawal.
+
+#### Extra extra extra work:
+Show the percent of each tag/group by total withdrawn on the user's profile.
