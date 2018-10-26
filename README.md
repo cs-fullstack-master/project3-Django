@@ -22,18 +22,18 @@ Use HTML, CSS, templating, and any css resources neccessary to make your site ae
 - 1pt: Web page is too busy. People reading it cannot find what they want quickly. Excessive use of graphic elements
 
 ### Functionality (10 pts)
-Create an expense app to allow users to log their expenses and put funds toward their emergency fund.
+Create an expense app to allow users to log their checking and savings account. When creating a user
 
 #### 2pts
-When you're not logged in, provide a landing page suggesting users to create a new account with your site to save them money. When creating a new user allow them to provide their current balance and set an amount for an emergency fund.
+When you're not logged in, provide a landing page suggesting users to create a new account with your site to save them money. When creating a new user allow them to provide their current balance and set a goal for their savings account.
 
 #### 8pts
-Signed in users should see their balance, emergency fund status, and history of expenses/deposits on the index page. Allow the user to deposit or expense a fund with a name, amount, and date to either their balance or emergency fund.
+Signed in users should see their balance, goal for their savings account, and history of withdrawals and deposits into both accounts on the index page. Allow the user to deposit or withdraw a fund with a description, amount, and date to either their balance or savings account.
 
 <hr>
 
 #### Extra Work:
-Create a user profile page that allows them to change their emergency fund. Display total withdrawn and total deposited.
+Create a user profile page that allows the user to change edit their name and savings account goal. Display total withdrawn and total deposited.
 
 #### Extra extra work:
 Allow a user to tag/group withdrawals when creating a withdrawal.
